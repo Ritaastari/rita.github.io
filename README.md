@@ -1,2 +1,1 @@
-# rita.github.io
-tugas besar prak kakas
+# web.github.rita
